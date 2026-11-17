@@ -1,4 +1,4 @@
-# ML-Learn — Machine Learning in Ukrainian 🇺🇦
+# ML-Learn — Machine Learning 
 
 A practical, self-paced course covering machine learning from **scikit-learn fundamentals** to **gradient boosting** and **deep learning with PyTorch**.
 
